@@ -5,7 +5,7 @@ Overview
 This project analyzes customer transactions to identify:
 1) The top 3 most profitable products
 2) The most loyal customer segments based on their purchase behavior
-The insights from this analysis help businesses optimize marketing strategies and product positioning.
+   The insights from this analysis help businesses optimize marketing strategies and product positioning.
 
 
 Dataset
@@ -25,7 +25,7 @@ The most frequent and high-spending customers are:
 1) Older Families (Budget Segment)
 2) Retirees (Mainstream Segment)
 3) Young Singles/Couples (Mainstream Segment)
-Loyal customers tend to be budget-conscious and brand-loyal, making frequent purchases of familiar products.
+   Loyal customers tend to be budget-conscious and brand-loyal, making frequent purchases of familiar products.
 
 
 Files in Repository
