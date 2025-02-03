@@ -16,9 +16,9 @@ The analysis is based on two datasets:
 
 Findings
 - Top 3 Most Profitable Products
-Dorito Corn Chips Supreme 380g – ₹40,352.00
-Smiths Crinkle Chips Original Big Bag 380g – ₹36,367.60
-Smiths Crinkle Chips Salt & Vinegar 330g – ₹34,804.20
+1) Dorito Corn Chips Supreme 380g – ₹40,352.00
+2) Smiths Crinkle Chips Original Big Bag 380g – ₹36,367.60
+3) Smiths Crinkle Chips Salt & Vinegar 330g – ₹34,804.20
 
 - Most Loyal Customers
 The most frequent and high-spending customers are:
