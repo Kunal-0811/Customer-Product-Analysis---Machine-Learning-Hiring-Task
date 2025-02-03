@@ -37,3 +37,8 @@ Files in Repository
 2) purchase_behaviour.csv → Customer demographic data.
 3) transaction_data.csv → Transaction history.
 4) README.md → Project description and findings.
+
+
+Conclusion
+
+- This analysis provides actionable insights for businesses to target loyal customers and optimize product marketing. 
